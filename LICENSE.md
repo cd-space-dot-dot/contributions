@@ -1,13 +1,3 @@
-Copyright (c) 2026 cd-space-dot-dot
-
-This work is licensed under a Creative Commons Attribution-NonCommercial 4.0
-International License (CC BY-NC 4.0). To view a copy of this license, visit
-https://creativecommons.org/licenses/by-nc/4.0/legalcode. Full legal text below,
-copied from https://github.com/mailchimp/content-style-guide, which is licensed
-under the same terms.
-
----
-
 ## creative commons
 
 # Attribution-NonCommercial 4.0 International
